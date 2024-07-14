@@ -1,0 +1,14 @@
+/home/godfred/Documents/CSharp/Project10/bin/Debug/net8.0/Project10
+/home/godfred/Documents/CSharp/Project10/bin/Debug/net8.0/Project10.deps.json
+/home/godfred/Documents/CSharp/Project10/bin/Debug/net8.0/Project10.runtimeconfig.json
+/home/godfred/Documents/CSharp/Project10/bin/Debug/net8.0/Project10.dll
+/home/godfred/Documents/CSharp/Project10/bin/Debug/net8.0/Project10.pdb
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/Project10.GeneratedMSBuildEditorConfig.editorconfig
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/Project10.AssemblyInfoInputs.cache
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/Project10.AssemblyInfo.cs
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/Project10.csproj.CoreCompileInputs.cache
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/Project10.dll
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/refint/Project10.dll
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/Project10.pdb
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/Project10.genruntimeconfig.cache
+/home/godfred/Documents/CSharp/Project10/obj/Debug/net8.0/ref/Project10.dll
